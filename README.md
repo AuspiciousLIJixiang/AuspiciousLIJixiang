@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AuspiciousLIJixiang
-- 👀 I’m interested in stm32 KNX
-- 🌱 I’m currently learning stm32 KNX
-- 💞️ I’m looking to collaborate on stm32 KNX
+- 👀 I’m interested in stm32 PCB Layout KNX
+- 🌱 I’m currently learning stm32 PCB Layout KNX
+- 💞️ I’m looking to collaborate on stm32 PCB Layout KNX
 - 📫 How to reach me auspiciouoslee@163.com
 
 <!---
